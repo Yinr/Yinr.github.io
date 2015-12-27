@@ -1,2 +1,2 @@
 # Yinr.github.io
-Yinr's Site
+[Yinr's Site](http://Yinr.github.io)
