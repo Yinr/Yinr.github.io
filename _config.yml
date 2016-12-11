@@ -11,7 +11,7 @@ title: Yinr's Site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yinr.github.io" # the base hostname & protocol for your site
 
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title
 timezone: Asia/Shangha
 
 # other links
@@ -59,3 +59,15 @@ excerpt_separator: "\n\n\n\n"
 # paginate
 gems: [jekyll-paginate]
 paginate: 10
+
+# default settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Yinr"
+      categories: "none"
+      tags: "none"
