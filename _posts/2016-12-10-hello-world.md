@@ -1,7 +1,7 @@
 ---
 title: Hello World
 date: 2016-12-10 9:00:58
-tags: hello-World
+tags: hello-world
 ---
 
 * content
