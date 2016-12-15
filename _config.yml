@@ -36,7 +36,7 @@ duoshuo_shortname: yinr
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: 7194ce68da18c82f9ce995b705b45b0d
+baidu_tongji_id: 2f315bef02035d2042f81c886ecd8677
 google_analytics_id: UA-73941744-2 # google 分析追踪id
 
 # Build settings
