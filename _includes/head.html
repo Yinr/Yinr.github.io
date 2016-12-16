@@ -14,6 +14,12 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml " | prepend: site.baseurl | prepend: site.url }}">
 
 {% if jekyll.environment == "production" %}
+{% if site.baidu_ce_token %}
+    <meta baidu-gxt-verify-token="29465ccac1f5f7914c14768453dc4a1a">
+{% endif %}
+{% endif %}
+
+{% if jekyll.environment == "production" %}
 {% if site.baidu_tongji_id %}
     <script>
     // 百度统计代码
