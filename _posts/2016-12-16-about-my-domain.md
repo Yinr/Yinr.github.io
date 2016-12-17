@@ -2,7 +2,7 @@
 title: 域名及邮箱设置说明
 date: 2016-12-16 15:27:20 +0800
 category: yinr's site
-tags: site domain
+tags: site domain email
 ---
 
 * content
@@ -44,7 +44,11 @@ tags: site domain
 
 朋友们要是有兴趣可以跟我说～我给你们建账号。主要是玩儿的，不过也可以当个半正式的邮箱来用吧～毕竟我打算一直保留着这个主域名的。
 
-邮箱的登录地址在 [ym.163.com][14] 哦，支持 POP3/IMAP/SMTP。
+邮箱的登录地址在 [ym.163.com][14] ，支持 POP3/IMAP/SMTP 哦，设置如下：
+
+> POP3：pop.ym.163.com 默认端口为：110 （如勾选 ssl 安全链接，端口号为 995）  
+> SMTP：smtp.ym.163.com 默认端口为：25 （如勾选 ssl 安全链接，端口号为 994）  
+> IMAP：imap.ym.163.com 默认端口为：143 （如勾选 ssl 安全链接，端口号为 993）  
 
 ## 网站其他
 
