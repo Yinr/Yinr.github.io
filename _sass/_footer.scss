@@ -28,13 +28,16 @@
                     color: #fff;
                 }
                 i {
-                    margin: 0 5px;
+                    margin: 0 5px 0 0;
                     font-size: 20px;
                 }
             }
         }
         .description {
             display: inline-block;
+        }
+        .copyright {
+            font-size: 75%;
         }
         .pageview {
             font-size: 75%;
