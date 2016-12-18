@@ -106,7 +106,7 @@ layout: default
                     标签
                 </div>
                 <div class="tags-cloud">
-                    {% assign first = site.tags.first %}
+                    {% assign first = site.tags | first %}
                     {% assign max = first[1].size %}
                     {% assign min = max %}
                     {% for tag in site.tags offset:1 %}
