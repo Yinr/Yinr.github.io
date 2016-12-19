@@ -38,6 +38,10 @@
         }
         .copyright {
             font-size: 75%;
+            img {
+                vertical-align: top;
+                opacity: 0.5;
+            }
         }
         .pageview {
             font-size: 75%;
