@@ -42,6 +42,35 @@
                 vertical-align: top;
                 opacity: 0.5;
             }
+            .lover {
+                @-webkit-keyframes icon_pulse_grow {
+                    to {transform:scale(1.3)}
+                }
+                   @-moz-keyframes icon_pulse_grow {
+                    to {transform:scale(1.3)}
+                }
+                     @-o-keyframes icon_pulse_grow {
+                    to {transform:scale(1.3)}
+                }
+                        @keyframes icon_pulse_grow {
+                    to {transform:scale(1.3)}
+                }
+                display: inline-block;
+                text-decoration: none;
+                color: #bbb;
+                &::before{
+                    position: absolute;
+                    font-family: FontAwesome;
+                    content: "\f004";
+                }
+                &:hover::before{
+                    animation-name: icon_pulse_grow;
+                    animation-duration: 0.4s;
+                    animation-timing-function: linear;
+                    animation-iteration-count: infinite;
+                    animation-direction: alternate;
+                }
+            }
         }
         .pageview {
             font-size: 75%;
