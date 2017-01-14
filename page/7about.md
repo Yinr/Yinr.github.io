@@ -10,7 +10,16 @@ icon: heart
 
 ## 关于我
 
-爱好数学物理计算机，结果无意中步入了中医的殿堂。
+<ruby>胤儿<rp>（</rp><rt>Yinr</rt><rp>）</rp></ruby>，生于南方的 90 后，虽然入了中医的大门却还是喜欢抱着代码啃的孩子。爱好数学、物理和计算机，对天文、古文、古乐也有些兴趣。哦，对了，那些电子、机械、手工等自然也是我玩儿的范围。
+
+正在使用：
+
+* [Linux](https://www.kernel.org/)（[KDE neon](https://neon.kde.org/)，打算有空去试试 [fedora](https://getfedora.org/) 和 [Arch Linux](http://www.archlinux.org/)）
+* [zsh](http://zsh.sourceforge.net/)
+* [tmux](http://tmux.github.io/)
+* [vim](http://www.vim.org/)（打算去试试 [Emacs](https://www.gnu.org/software/emacs/)）
+* [Visual Studio Code](http://code.visualstudio.com/)
+* ...
 
 ## 联系我
 
