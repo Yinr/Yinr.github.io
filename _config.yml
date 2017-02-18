@@ -37,6 +37,7 @@ duoshuo_shortname: yinr
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
 baidu_tongji_id: 2f315bef02035d2042f81c886ecd8677
+cnzz_id: 1261297347 # 站长统计 id
 google_analytics_id: UA-73941744-1 # google 分析追踪id
 
 # 百度云观测代码
