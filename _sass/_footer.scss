@@ -74,6 +74,11 @@
         }
         .pageview {
             font-size: 75%;
+            span[id^="cnzz_stat_icon"] {
+                vertical-align: middle;
+                line-height: 1;
+                opacity: 0.5;
+            }
         }
         .power {
             font-size: 75%;
