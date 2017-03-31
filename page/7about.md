@@ -14,11 +14,11 @@ icon: heart
 
 正在使用：
 
-* [Linux](https://www.kernel.org/)（[KDE neon](https://neon.kde.org/)，打算有空去试试 [fedora](https://getfedora.org/) 和 [Arch Linux](http://www.archlinux.org/)）
+* [Linux](https://www.kernel.org/)（~[KDE neon](https://neon.kde.org/)~[Manjaro](http://www.manjaro.org/)，打算有空去试试 [fedora](https://getfedora.org/) 和 [Arch Linux](http://www.archlinux.org/)）
 * [zsh](http://zsh.sourceforge.net/)
 * [tmux](http://tmux.github.io/)
 * [vim](http://www.vim.org/)（打算去试试 [Emacs](https://www.gnu.org/software/emacs/)）
-* [Visual Studio Code](http://code.visualstudio.com/)
+* ~[Visual Studio Code](http://code.visualstudio.com/)~[Atom](https://atom.io/)
 * ...
 
 ## 联系我
