@@ -29,6 +29,8 @@ icon: bookmark
 3. [病例解析（肺炎 肺癌）](http://www.tcmmooc.com/course/6176)
 4. [技能考核（心肺复苏的新标准）](http://www.tcmmooc.com/course/6181)
 5. [技能考核（解剖位点相关的考题）](http://www.tcmmooc.com/course/6182)
+6. [技能考核（打分原则及第三站考试常见状况）](http://www.tcmmooc.com/course/6183)
+7. [笔试大纲分析及举例](http://www.tcmmooc.com/course/6184)
 
 ## 评论
 
