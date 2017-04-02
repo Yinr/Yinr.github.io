@@ -23,7 +23,7 @@ icon: bookmark
 * [ggplot2 doc](http://docs.ggplot2.org/current/)
 
 ## 医学
-### 蔡玲玲--2017执业医师考
+### [蔡玲玲 -- 2017 执业医师考](http://www.tcmmooc.com/user/238288)
 1. [考纲变化及分值分布](http://www.tcmmooc.com/course/6164)
 2. [病例解析（感冒）](http://www.tcmmooc.com/course/6169)
 3. [病例解析（肺炎 肺癌）](http://www.tcmmooc.com/course/6176)
