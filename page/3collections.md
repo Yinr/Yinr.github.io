@@ -31,6 +31,8 @@ icon: bookmark
 5. [技能考核（解剖位点相关的考题）](http://www.tcmmooc.com/course/6182)
 6. [技能考核（打分原则及第三站考试常见状况）](http://www.tcmmooc.com/course/6183)
 7. [笔试大纲分析及举例](http://www.tcmmooc.com/course/6184)
+8. [易错考题分析（中基 中诊）](http://www.tcmmooc.com/course/6185)
+9. [易错考题分析（中药）](http://www.tcmmooc.com/course/6186)
 
 ## 评论
 
