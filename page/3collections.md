@@ -22,6 +22,15 @@ icon: bookmark
 * [ggplot2 reference](http://ggplot2.tidyverse.org/reference/index.html)
 * [ggplot2 doc](http://docs.ggplot2.org/current/)
 
+## tools
+### [Vim](http://vim.org) plugins
+* [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
+* [vim-surround](https://github.com/tpope/vim-surround)
+* [vim-niceblock](https://github.com/kana/vim-niceblock)
+* [vim-textmanip](https://github.com/t9md/vim-textmanip)
+* [vim-exchange](https://github.com/tommcdo/vim-exchange)
+* [todo.txt-vim](https://github.com/freitass/todo.txt-vim)
+
 ## 医学
 ### [蔡玲玲 -- 2017 执业医师考](http://www.tcmmooc.com/user/238288)
 1. [考纲变化及分值分布](http://www.tcmmooc.com/course/6164)
