@@ -42,6 +42,8 @@ icon: bookmark
 7. [笔试大纲分析及举例](http://www.tcmmooc.com/course/6184)
 8. [易错考题分析（中基 中诊）](http://www.tcmmooc.com/course/6185)
 9. [易错考题分析（中药）](http://www.tcmmooc.com/course/6186)
+10. [易错考题分析（中药 方剂）](http://www.tcmmooc.com/course/6187)
+11. [易错考题分析（方剂）](http://www.tcmmooc.com/course/6188)
 
 ## 评论
 
