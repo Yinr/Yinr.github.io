@@ -44,6 +44,7 @@ icon: bookmark
 9. [易错考题分析（中药）](http://www.tcmmooc.com/course/6186)
 10. [易错考题分析（中药 方剂）](http://www.tcmmooc.com/course/6187)
 11. [易错考题分析（方剂）](http://www.tcmmooc.com/course/6188)
+12. [易错考题分析（中内）](http://www.tcmmooc.com/course/6189)
 
 ## 评论
 
