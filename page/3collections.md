@@ -21,6 +21,13 @@ icon: bookmark
 ### ggplot2
 * [ggplot2 reference](http://ggplot2.tidyverse.org/reference/index.html)
 * [ggplot2 doc](http://docs.ggplot2.org/current/)
+* [Beautiful plotting in R: A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
+
+## [python](https://www.python.org/)
+* [The Python Challenge](http://www.pythonchallenge.com/)
+
+## [TensorFlow](https://www.tensorflow.org/)
+* [A Neural Network Playground](http://playground.tensorflow.org)
 
 ## tools
 ### [Vim](http://vim.org) plugins
@@ -32,6 +39,13 @@ icon: bookmark
 * [todo.txt-vim](https://github.com/freitass/todo.txt-vim)
 
 ## 医学
+### 肾病
+* [Renal Association](http://www.renal.org/)
+* [eGFR 计算器](http://egfrcalc.renal.org/)
+
+### 医院
+* [中国中医科学院广安门医院](http://gamhospital.ac.cn/)
+
 ### [蔡玲玲 -- 2017 执业医师考](http://www.tcmmooc.com/user/238288)
 1. [考纲变化及分值分布](http://www.tcmmooc.com/course/6164)
 2. [病例解析（感冒）](http://www.tcmmooc.com/course/6169)
