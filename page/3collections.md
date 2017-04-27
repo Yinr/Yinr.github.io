@@ -26,8 +26,14 @@ icon: bookmark
 ## [python](https://www.python.org/)
 * [The Python Challenge](http://www.pythonchallenge.com/)
 
-## [TensorFlow](https://www.tensorflow.org/)
+## 机器学习
+* *[Deep Learning](http://www.deeplearningbook.org/)*（[中文版](https://github.com/exacity/deeplearningbook-chinese)）
+* *[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)*
+
+### [TensorFlow](https://www.tensorflow.org/)
 * [A Neural Network Playground](http://playground.tensorflow.org)
+* [深度学习 - Udacity](https://cn.udacity.com/course/deep-learning--ud730)
+* [新手向的TensorFlow学习之路（Learning paths）](http://hp.stuhome.net/index.php/2016/07/06/tensorflow-learning-paths/)
 
 ## tools
 ### [Vim](http://vim.org) plugins
