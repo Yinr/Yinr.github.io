@@ -23,6 +23,14 @@
         >h1 {
             margin-bottom: -10px;
         }
+        >h2 {
+            position: relative;
+            &::before {
+                content: "#";
+                left: -0.5em;
+                position: absolute;
+            }
+        }
         p {
             line-height: 2em;
             ruby {
