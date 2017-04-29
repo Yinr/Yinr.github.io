@@ -29,6 +29,7 @@ icon: bookmark
 ## 机器学习
 * *[Deep Learning](http://www.deeplearningbook.org/)*（[中文版](https://github.com/exacity/deeplearningbook-chinese)）
 * *[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)*
+* [MXNet](http://mxnet.io/)
 
 ### [TensorFlow](https://www.tensorflow.org/)
 * [A Neural Network Playground](http://playground.tensorflow.org)
