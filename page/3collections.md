@@ -31,6 +31,12 @@ icon: bookmark
 * *[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)*
 * [MXNet](http://mxnet.io/)
 
+  Flexible and Efficient Library for Deep Learning
+
+* [Keras](https://keras.io/)（[中文文档](http://keras-cn.readthedocs.io/en/latest/)）
+
+  Deep Learning library for Theano and TensorFlow
+
 ### [TensorFlow](https://www.tensorflow.org/)
 * [A Neural Network Playground](http://playground.tensorflow.org)
 * [深度学习 - Udacity](https://cn.udacity.com/course/deep-learning--ud730)
