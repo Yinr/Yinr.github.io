@@ -31,7 +31,7 @@ tags: cloud-server owncloud LAMP
 
 首先添加仓库的信任：
 
-    Run the following shell commands as root to trust the repository.
+> Run the following shell commands as root to trust the repository.
 
 ```
 rpm --import https://download.owncloud.org/download/repositories/stable/CentOS_7/repodata/repomd.xml.key
@@ -39,7 +39,7 @@ rpm --import https://download.owncloud.org/download/repositories/stable/CentOS_7
 
 然后添加 owncloud 官方仓库并安装 owncloud：
 
-    Run the following shell commands as root to add the repository and install from there.
+> Run the following shell commands as root to add the repository and install from there.
 
 ```
 wget http://download.owncloud.org/download/repositories/stable/CentOS_7/ce:stable.repo -O /etc/yum.repos.d/ce:stable.repo
