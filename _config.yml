@@ -9,7 +9,7 @@
 title: Yinr's Site
 # brief-intro: Yinr's Site
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yinr.github.io" # the base hostname & protocol for your site
+url: "http://yinr.cc" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title
 timezone: Asia/Shanghai
@@ -18,7 +18,7 @@ timezone: Asia/Shanghai
 twitter_username: HuYinr
 # facebook_username:
 github_username: Yinr
-email: hssyinr@yeah.net
+email: yinr@yinr.cc
 # weibo_username:
 # zhihu_username:
 # linkedIn_username:
