@@ -3,12 +3,14 @@ title: 在云服务器上搭建自己的 owncloud
 date: 2017-05-03 21:12:04 +0800
 category: cloud-server
 tags: cloud-server owncloud LAMP
+lastupdate: 2018-01-13 21:32:16 +08:00
 ---
 
 * content
 {:toc}
 
 最近看着我们 [Linux 中国](https://linux.cn) 的微信机器人 [LCbot](https://github.com/lctt/LCBot) 弄得很热闹呀，于是就也想试试。终于忍痛昨天在阿里云买了一个月的云服务器，学生价，9.9/月（优惠力度算是挺大了呢）。
+
 （——*孩子你忘了五月份一波接一波的考试了么！！！* ——*...等我试一下就马上回去学习 T_T...*）
 
 然而，服务器上准备好之后，准备新注册一个微信帐号，却发现现在微信注册必须要手机号。左右无果，就只好放一放暂时再想想别的用途了。
