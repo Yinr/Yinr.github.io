@@ -64,8 +64,10 @@ layout: default
 
         {% include previousAndNext.html %}
 
+        {% if site.duoshuo_shortname or site.disqus_shortname or site.youyan_shortname or site.laibili_shortname %}
         <h2 id="comments">评论</h2>
         {% include comments.html %}
+        {% endif %}
 
 
     </div>
@@ -94,7 +96,7 @@ layout: default
  * target _blank
  */
 (function() {
-    var aTags = document.querySelectorAll('article a:not([id])')
+    var aTags = document.querySelectorAll('article a:not([id]):not([href^="#"])')
     for (var i = 0; i < aTags.length; i++) {
         aTags[i].setAttribute('target', '_blank')
     }

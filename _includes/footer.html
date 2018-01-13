@@ -27,6 +27,7 @@
                 <a class="lover" href="#">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...</a>
             </span>
         </p>
+        {% if jekyll.environment == "production" %}
         <p class="pageview">
             本站总访问<span id="busuanzi_value_site_pv"></span>次，访客<span id="busuanzi_value_site_uv"></span>人次，本页总阅读<span id="busuanzi_value_page_pv"></span>次
             {% if site.cnzz_id %}
@@ -36,6 +37,7 @@
             </script>
             {% endif %}
         </p>
+        {% endif %}
         <p class="power">
             <span>
                 Powered by <a href="https://jekyllrb.com/">Jekyll</a> & <a href="https://pages.github.com/">Github pages</a>.
