@@ -57,7 +57,10 @@ icon: bookmark
 * [eGFR 计算器](http://egfrcalc.renal.org/)
 
 ### 医院
+* [北京中医药大学东直门医院](http://www.dzmyy.com.cn/)
 * [中国中医科学院广安门医院](http://gamhospital.ac.cn/)
+
+吐槽一句，医院竟然都不支持 [HTTPS](https://en.wikipedia.org/wiki/HTTPS)...
 
 ### [蔡玲玲 -- 2017 执业医师考](http://www.tcmmooc.com/user/238288)
 1. [考纲变化及分值分布](http://www.tcmmooc.com/course/6164)
