@@ -24,7 +24,7 @@ icon: heart
 ## 联系我
 
 * GitHub：[Yinr](https://github.com/Yinr)
-* email：<yinr@yinr.cc> / <yinr@yinrs.win>
+* email：{%if site.email %}<{{ site.email }}> / {% endif %}<yinr@yinrs.win>
 
 ## 关于本站
 
