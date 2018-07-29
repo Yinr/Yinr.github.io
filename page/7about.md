@@ -14,17 +14,20 @@ icon: heart
 
 正在使用：
 
-* [Linux](https://www.kernel.org/)（~~[KDE neon](https://neon.kde.org/)~~ [Manjaro](http://www.manjaro.org/)，打算有空去试试 [fedora](https://getfedora.org/) 和 [Arch Linux](http://www.archlinux.org/)）
-* [zsh](http://zsh.sourceforge.net/)
+* [Linux](https://www.kernel.org/)（[Arch Linux](https://www.archlinux.org/), ~~[KDE neon](https://neon.kde.org/)~~, ~~[Manjaro](https://manjaro.org/)~~）
+* [i3wm](https://i3wm.org/) & [Polybar](https://github.com/jaagr/polybar)
+* [zsh](http://zsh.sourceforge.net/) & [Oh My Zsh](https://ohmyz.sh/)
 * [tmux](http://tmux.github.io/)
 * [vim](http://www.vim.org/)（打算去试试 [Emacs](https://www.gnu.org/software/emacs/)）
-* ~~[Visual Studio Code](http://code.visualstudio.com/)~~ [Atom](https://atom.io/)
+* [Atom](https://atom.io/), ~~[Visual Studio Code](http://code.visualstudio.com/)~~
 * ...
 
 ## 联系我
 
 * GitHub：[Yinr](https://github.com/Yinr)
 * email：{%if site.email %}<{{ site.email }}> / {% endif %}<yinr@yinrs.win>
+
+{% include pub-keys.md %}
 
 ## 关于本站
 
