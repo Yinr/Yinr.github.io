@@ -9,7 +9,7 @@
 title: Yinr's Site
 # brief-intro: Yinr's Site
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yinr.cc" # the base hostname & protocol for your site
+url: "https://yinr.cc" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title
 timezone: Asia/Shanghai
