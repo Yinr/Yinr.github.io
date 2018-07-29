@@ -1,2 +1,2 @@
 # Yinr's Site
-[Yinrs.win](http://Yinrs.win)
+[Yinr.cc](https://yinr.cc)
