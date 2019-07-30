@@ -41,6 +41,7 @@ disqus_shortname: yinrs
 baidu_tongji_id: 2f315bef02035d2042f81c886ecd8677
 cnzz_id: 1261297347 # 站长统计 id
 google_analytics_id: UA-73941744-1 # google 分析追踪id
+yinr_matomo: true
 
 # 百度云观测代码
 # 百度云观测 token
